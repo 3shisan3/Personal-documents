@@ -4,7 +4,7 @@
 
 **下载方式在文末**
 
-<img src="https://gitee.com/ForthEspada/image/raw/master/image/202110230016546.png" alt="当前页面中的书籍全部收录好了" style="zoom:50%;" />
+<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261420890.png" alt="当前页面中的书籍全部收录好了" style="zoom:50%;" />
 
 ### 一、C/C++
 
@@ -102,4 +102,4 @@
 
 扫描下方二维码，回复关键字” **005**“，即可获取我精心收集的计算机经典图书Top50！
 
-<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110230014527.png" style="zoom: 33%;" />
+<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261416899.png"  align="middle" style="zoom:50%;" >
