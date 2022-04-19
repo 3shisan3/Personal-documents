@@ -32,7 +32,13 @@
 
 >点击下列目录直接跳转书籍所在类别，但有时目录跳转会失灵...如果没有没有正常跳转可以动动小手向下拉即可，全部的书籍都在本页面。 
 >
->笔者是一个人在维护这个仓库，本地大概是1100多本书了，需要一步步慢慢上传，我只能在闲暇时间慢慢更新，目前已经更新超过500+了，一个人的力量是有限的，请谅解一下。如果没有您要用的书，可以加一下**个人微信([coderxiu1](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3@1.0/202107/%E9%98%BF%E7%A7%80%E4%BA%8C%E5%8F%B7%E7%BA%AF%E5%BE%AE%E4%BF%A1.jpg))**，注明来意，我会慢慢添加上去的。
+>笔者是一个人在维护这个仓库，本地大概是1100多本书了，需要一步步慢慢上传，我只能在闲暇时间慢慢更新，目前已经更新超过500+了，一个人的力量是有限的，请谅解一下。
+
+<!--
+
+如果没有您要用的书，可以加一下**个人微信([coderxiu1](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3@1.0/202107/%E9%98%BF%E7%A7%80%E4%BA%8C%E5%8F%B7%E7%BA%AF%E5%BE%AE%E4%BF%A1.jpg))**，注明来意，我会慢慢添加上去的。
+
+-->
 
 - [00、C语言](#00、C语言)
 - [01、C++](#01、C++)
@@ -127,8 +133,6 @@
 - 《C++ Primer(第五版)带书签 高清完整版》 [百度云链接](https://pan.baidu.com/s/1ADj-FnyloWB4xeobjVimeA ) 提取码：ksax 
 
 - 《C++ Primer 习题集》 [百度云链接](https://pan.baidu.com/s/1S_iGX7aWf_xHROheDr0LBw ) 提取码：yjqc 
-
-- 《C++ Primer 5th 英文版》 [百度云链接](https://pan.baidu.com/s/1j3Xu_fxEYpIUWHN88HGjGg ) 提取码：zt2t 
 
 - 《C++ Primer-第4版》[百度云链接](https://pan.baidu.com/s/1acriBigOzoY4sH2Ndwt8Rw ) 提取码：9vox 
 
